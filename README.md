@@ -1,3 +1,8 @@
+Fork
+===========
+Only need GA in bower.json for our webpack auto angular module injector
+
+
 angulartics
 ===========
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/luisfarzati/angulartics?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
